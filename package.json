@@ -1,0 +1,23 @@
+{
+  "name": "electron-largetype",
+  "version": "0.1.0",
+  "description": "Large Type functionality for Electron apps",
+  "main": "./largetype.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/progrium/electron-largetype"
+  },
+  "keywords": [
+    "atom",
+    "atom-shell",
+    "electron",
+    "gui",
+    "electron-component"
+  ],
+  "author": "Jeff Lindsay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/progrium/electron-largetype/issues"
+  },
+  "homepage": "https://github.com/progrium/electron-largetype"
+}
