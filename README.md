@@ -4,7 +4,7 @@ Large Type for Electron apps
 
 ## Getting the library
 
-  $ npm install electron-largetype
+    $ npm install electron-largetype
 
 ## Using it
 
