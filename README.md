@@ -2,6 +2,8 @@
 
 Large Type for Electron apps
 
+![screenshot](screenshot.png)
+
 ## Getting the library
 
     $ npm install electron-largetype
